@@ -18,7 +18,6 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 
 ** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
 
-Summary of your role
 
 - Accomplishment that contains **bold text**.
 - Update change
