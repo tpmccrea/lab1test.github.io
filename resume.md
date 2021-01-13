@@ -21,7 +21,7 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 Summary of your role
 
 - Accomplishment that contains **bold text**.
-- Accomplishment
+- Update change
 - Accomplishment
 - Accomplishment
 
