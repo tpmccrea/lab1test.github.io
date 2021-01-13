@@ -1,11 +1,3 @@
-
-3. Next, click the Create repository button. As a result, a new repository [github_username].github.io is created. You can access this repository through the link https://github.com/[github_username]/[github_username].github.io. For example, you can access the repository geovizlabtest.github.io through the link https://github.com/geovizlabtest/ geovizlabtest.github.io.
-
-3.2 Compose a Markdown file
-1. On your local computer, create a text file, and name it resume.md.
-
-2. Open this file resume.md with Atom. Then, you can work on your resume. If you are not familiar with Markdown, please refer to a tutorial at here. Or you can start with copying and pasting the template below. Notably, this template is only for your reference. You probably do not want to share too much about your personal information such as phone number, address and etc.
-
 # Your Name
 
 your.name@example.com
